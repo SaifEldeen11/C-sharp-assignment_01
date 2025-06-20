@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Session01_Saif": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
